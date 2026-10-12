@@ -1,4 +1,4 @@
-# SUSTech-CS205-CPP-programing
+# SUSTech-CS205-CPP-Programming
 
 Haibin Lai 12211612
 
